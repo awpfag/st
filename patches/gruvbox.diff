@@ -37,7 +37,7 @@ index 91ab8ca..a068694 100644
 -
 -	/* more colors can be added after 255 to use with DefaultXX */
 -	"#cccccc",
--	"#555555",
+
 -	"gray90", /* default foreground colour */
 -	"black", /* default background colour */
 +	[8]  = "#928374", /* black   */
